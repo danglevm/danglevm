@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a third-year Computer Engineering student @ the University of Waterloo. Check out some of my work here, or view more links on my website!
-<!--
-🌲 I was previously at Zynga Inc. as a Data Engineering Intern on the Platform Machine Learning team. I worked on real-time data pipelines and monitoring systems for some of Zynga's largest ML models in production.🌱 I was also previously at Zynga working on Go/gRPC server code for Zynga Poker, the world's biggest Poker game with millions of monthly users. Some of my work includes revamping the app's rewards microservice, improving P95 response time for 79 million transactions by up to 11%, every single day.
-🛠️ I lead Waterloo Reality Labs, the only collegiate design group in the world to be building in-house headsets from the ground up. We are interested in building new interfaces for the virtual world. I am currently directing the Universal Gestures and Universal Text projects, and am pursuing funding for the team to begin building Waterloo's humanoid.
--->
+🔭 I'm a third-year Computer Engineering student at the University of Waterloo. You can check out some of my work here or more on my website!
+
+🌲 I was previously at Blackberry QNX working as a Systems Software Intern on the Command Line Tools team. I worked on QNX utilities and features for one of the world's most widely-used real-time kernels.
+
+🌱 I was also previously working at the University of Waterloo [Print and Retail Solutions](https://wstore.uwaterloo.ca/pages/w-print) doing development on their website all while maintaining IT infrastructure for operators and buyers.
+
+🛠️ I am also a member at [Waterloo Reality Labs](https://uwrealitylabs.com/), a design team looking to build in house headsets from the ground up.
+
 📫 How to reach me: dang.le@uwaterloo.ca, or my LinkedIn
